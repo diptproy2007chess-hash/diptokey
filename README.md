@@ -2,9 +2,7 @@
 
 **An advanced native Android keyboard with AI, Bangla transliteration, PC-style editing, and a clipboard manager.**
 
-[![Android CI](https://github.com/${REPO_OWNER}/diptokey/actions/workflows/android.yml/badge.svg)](https://github.com/${REPO_OWNER}/diptokey/actions)
-
-> Replace `${REPO_OWNER}` above with the GitHub username/org where this repo lives.
+[![Android CI](https://github.com/diptproy2007chess-hash/diptokey/actions/workflows/android.yml/badge.svg)](https://github.com/diptproy2007chess-hash/diptokey/actions)
 
 ---
 
