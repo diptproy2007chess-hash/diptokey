@@ -1,0 +1,23 @@
+<resources>
+    <dimen name="key_height">52dp</dimen>
+    <dimen name="key_height_modifier">44dp</dimen>
+    <dimen name="key_height_function">48dp</dimen>
+    <dimen name="key_horizontal_gap">6dp</dimen>
+    <dimen name="key_vertical_gap">6dp</dimen>
+    <dimen name="key_padding_horizontal">8dp</dimen>
+    <dimen name="key_text_size">20sp</dimen>
+    <dimen name="key_label_size">14sp</dimen>
+    <dimen name="suggestion_height">38dp</dimen>
+    <dimen name="suggestion_text_size">15sp</dimen>
+    <dimen name="toolbar_height">38dp</dimen>
+    <dimen name="keyboard_top_padding">4dp</dimen>
+    <dimen name="keyboard_bottom_padding">4dp</dimen>
+    <dimen name="keyboard_horizontal_padding">6dp</dimen>
+    <dimen name="key_corner_radius">10dp</dimen>
+
+    <dimen name="ai_panel_min_height">180dp</dimen>
+    <dimen name="ai_panel_max_height">320dp</dimen>
+
+    <dimen name="tablet_key_height">56dp</dimen>
+    <dimen name="tablet_key_horizontal_gap">8dp</dimen>
+</resources>

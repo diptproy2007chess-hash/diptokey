@@ -1,0 +1,22 @@
+<resources>
+    <!-- Neutral surface palette -->
+    <color name="bg_light">#FFEFF1F4</color>
+    <color name="bg_dark">#FF1B1B1F</color>
+    <color name="key_light">#FFFFFFFF</color>
+    <color name="key_dark">#FF2C2C30</color>
+    <color name="key_pressed_light">#FFD9DEE6</color>
+    <color name="key_pressed_dark">#FF3A3A40</color>
+    <color name="key_text_light">#FF1B1B1F</color>
+    <color name="key_text_dark">#FFE7E7EA</color>
+    <color name="accent">#FF0A84FF</color>
+    <color name="accent_dark">#FF0A84FF</color>
+    <color name="suggestion_bg_light">#FFF6F7F9</color>
+    <color name="suggestion_bg_dark">#FF222226</color>
+    <color name="toolbar_bg_light">#FFE7E9EE</color>
+    <color name="toolbar_bg_dark">#FF141416</color>
+    <color name="divider_light">#FFD9DEE6</color>
+    <color name="divider_dark">#FF333337</color>
+
+    <color name="white">#FFFFFFFF</color>
+    <color name="black">#FF000000</color>
+</resources>

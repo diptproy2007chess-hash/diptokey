@@ -1,0 +1,28 @@
+# Built artifacts
+*.apk
+*.aab
+*.dex
+*.class
+
+# Gradle
+.gradle/
+build/
+/local.properties
+/.idea/
+.DS_Store
+/captures/
+.externalNativeBuild
+.cxx
+
+# Keystore (do not commit)
+*.jks
+*.keystore
+
+# Local config
+local.properties
+
+# Logs
+*.log
+
+# OS
+Thumbs.db
